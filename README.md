@@ -23,6 +23,8 @@ Using Sobel operator from cv2,detect the edges of the image.
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 
 ## Program and Output:
+### Original
+
 ```
 Developed by: Ponguru Aasrith Sairam
 Register Number: 212223240116
@@ -39,7 +41,7 @@ plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 plt.title('Original Image')
 plt.axis('off')
 ```
-### Original
+
 
 ![image](https://github.com/user-attachments/assets/b62494f4-6844-491a-994f-91554e4275be)
 
